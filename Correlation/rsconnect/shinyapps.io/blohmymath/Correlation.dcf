@@ -1,0 +1,12 @@
+name: Correlation
+title: Correlation
+username:
+account: blohmymath
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1902769
+bundleId: 2851811
+url: https://blohmymath.shinyapps.io/Correlation/
+when: 1583357860.07937
+asMultiple: FALSE
+asStatic: FALSE
