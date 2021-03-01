@@ -1,9 +1,10 @@
 library(shiny)
 library(BSDA)
 library(tidyverse)
+print("Hello")
 
 ui <- fluidPage(
-   
+    
    # Application title
    titlePanel("1 Sample Power Analysis"),
    tabsetPanel(
